@@ -1,2 +1,3 @@
 # learn
-learn repos
+learn repos for gigs command demonstration
+
